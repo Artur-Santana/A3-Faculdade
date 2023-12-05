@@ -1,0 +1,1 @@
+$j(document).ready(function(){$j('.slider-blog').bxSlider({controls:false,pager:true,slideWidth:290,slideMargin:10,minSlides:1,maxSlides:3,easing:'easeInOutQuad'})});
